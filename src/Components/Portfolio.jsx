@@ -45,7 +45,7 @@ const projectList = [
   {
     title: "My Resume Site",
     description: "Created a website which contains my experiences and recent projects.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/wendytim4/MLSA_wendytechportfolio.git",
   },
 ];
 
