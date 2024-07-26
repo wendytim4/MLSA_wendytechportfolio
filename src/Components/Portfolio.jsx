@@ -31,21 +31,20 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "NATEMBEA HEALTH CENTER AppLICATION",
+    title: "Natembea Health Center Application",
     description:
-      " Implemented an efficient database using MYSQL and PHP to build the web application's backend, allowing the nurse administrator to manage information of about 1000+ students",
+      "Built a web application to store student, doctors and nurses information. Also the web application shows the distribution of the variety of diseases gotten by students in the school. Built the frontend with html, css and javascript. Built backend with php and used my msql database to store student information.",
     url: "https://github.com/wendytim4/school-hospital-web-application",
   },
   {
-    title: "Counsellor Appointment System",
+    title: "CareNest Mental Health Application",
     description:
-      "Built a web application that allows the counsellors to counsell students. The application was built using React and Mongo DB. Also, the application makes use a finetune AI model called Falcon-7B which helps the counsellor in analysing the symptoms presented by the student",
-    url: "https://github.com/wendytim4/counsellor_webapp",
+      "A web application that stores student information and gives personalized mental health assessments for each student. The Application stores students' mental health history and uses prompt engineering to assess notes about the student inputted by the counselor, giving feedback about the student's mental health condition. The application contains the endpoint for ChatGPT 3.5. Chat GPT 3.5 uses student information in the database to assess student mental health and the current notes placed in by the counselor to give feedback about the student's mental health.",
+    url: "https://github.com/wendytim5/counsellor_webapp",
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    description: "Created a website which contains my experiences and recent projects.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
 ];

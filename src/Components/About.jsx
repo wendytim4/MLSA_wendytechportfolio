@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a scomputer science student studying at Ashesi University. I am interested in both frontend developement and backend development.";
+  "I am a final year computer science student studying at Ashesi University. I am interested in both frontend developement and backend development. Also since I am in the early stage of my career, I am just looking for a role to grow my skills and knowedge in the tech field.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -37,6 +37,8 @@ const skillsList = [
   "Data Science",
   "Cloud Computing",
   "Figma",
+  "Frontend Engineering",
+  "Bckend Engineering",
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my programming experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in innovative and creative ways. By leveraging my programming experience, I continually look for new and better ways to polish my skills to build impactful and sustainable products.";
 
 const About = () => {
   return (
